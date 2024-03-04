@@ -6,3 +6,4 @@
 - Maddy likes cats
 - Dastan likes snakes and cats
 
+- Riley likes red pandas and owls

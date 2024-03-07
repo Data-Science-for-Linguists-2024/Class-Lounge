@@ -1,4 +1,5 @@
 # Riley's Guestbook
+Welcome to my guestbook:)
 Leave your comments on the repo here: https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis
 
 ## Maya's feedback

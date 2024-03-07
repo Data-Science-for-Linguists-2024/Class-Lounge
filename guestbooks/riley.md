@@ -1,5 +1,5 @@
-# TITLE
-
+# Riley's Guestbook
+Leave your comments on the repo here: https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis
 
 ## Maya's feedback
 - You have a good understanding of you data and a clear direction for your analysis. Your process of reordering and combining the dataframes was very clean and you utilized Pandas well. 

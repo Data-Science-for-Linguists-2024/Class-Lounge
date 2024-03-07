@@ -1,3 +1,3 @@
-# TITLE
-
+# Stance Taking in Spontaneous Speech
+Welcome to Maya Asher's guestbook! Feel free to leave feedback on their [repo](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech) below...
 

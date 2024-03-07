@@ -1,4 +1,7 @@
-# TITLE
+# [Colexification Around the Globe](https://github.com/Data-Science-for-Linguists-2024/Colexification-Across-the-Globe)
+by: Teresa Davison
+
+Welcome to my guestbook! Thanks for stopping by :)
 
 ## Maya's feedback
 - Your visualizations were top-notch! I enjoyed the interactivity of maps and thought they were both visually appealing and informative. 

@@ -1,7 +1,7 @@
 # TITLE
 
 
-# Teresa's comments
+### Teresa's comments
 
 - Your data is in a very clean format. It seemed like the web scraping turned out really well so you have a ton of data to work with! I also think it was very clever to include the username of the person who wrote the comment, in case they've written multiple comments. 
 

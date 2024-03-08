@@ -13,4 +13,6 @@ by: Madeline Powers
 
 - I really liked how you split the scripts that you used for scraping from the analysis notebook. So much so in fact that I am considering stealing this method later on for my project. Also you use tqdm to keep track of progression which is good practice especially for more time consuming tasks, such as collecting subbreddit data in your case
 
-- In terms of the data analysis, I think you could've added more visualizations and more examniation of the data, I am not sure if the analysis of the "text" property was left out of progress report 1 intentionally or not, but doing some preliminary analysis on the "text" property would definitiely be a good direction to go in. 
+- In terms of the data analysis, I think you could've added more visualizations and more examniation of the data, I am not sure if the analysis of the "text" property was left out of progress report 1 intentionally or not, but doing some preliminary analysis on the "text" property would definitiely be a good direction to go in.
+
+- One thing that I learned was that python had it's own library wrapper for the reddit API which is conveient as you don't have to explicitly scrape the subreddits themselves.

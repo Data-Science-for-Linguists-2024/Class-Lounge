@@ -8,3 +8,9 @@ by: Madeline Powers
 - This isn't really an avenue for improvement, but I just wonder if the fact that some subreddits may be more picture-based might mess with your analysis a bit, since you're only able to analyze the descriptions of the photos included. This might just mean narrowing down the choice of subreddits for analysis.
 
 - I personally found web scraping a little difficult so it was impressive to see it done so well. I definitely learned from the way you did it. I also think the data-sharing idea was a very good one and think I might approach my data sharing in a similar manner.
+
+### Dastan's comments
+
+- I really liked how you split the scripts that you used for scraping from the analysis notebook. So much so in fact that I am considering stealing this method later on for my project. Also you use tqdm to keep track of progression which is good practice especially for more time consuming tasks, such as collecting subbreddit data in your case
+
+- In terms of the data analysis, I think you could've added more visualizations and more examniation of the data, I am not sure if the analysis of the "text" property was left out of progress report 1 intentionally or not, but doing some preliminary analysis on the "text" property would definitiely be a good direction to go in. 

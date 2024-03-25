@@ -8,3 +8,8 @@
 - Grepping through the file was relatively quick, only taking a few seconds
 - Everything below 1,000,000 was relatively quick (< 1 minute), but that and above took several minutes and used all of my computer's memory
 - I also tried the full file and gave up because it was taking too long and my computer was getting very hot
+
+## Maya
+- I have a 2021 MacBook Pro with 16 GB of RAM and an Apple M1 Pro chip.
+- Grepping through the file wasn't instaneous but was still quick.
+- My computer was able to handle 1,000,000, but 10,000,000 proved to be too much for it because it ran for a long time until I finally gave up and terminated it. I was streaming music on my computer at the same time and the audio started cutting out, and the activity monitor was showing large readings, so my poor computer was hard at work. 

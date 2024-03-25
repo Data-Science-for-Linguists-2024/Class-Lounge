@@ -16,5 +16,6 @@
 
 ## Riley
 - I have a 4-year-old MacBook Pro with 16 GB of RAM and an Intel Core i5 processor
+- grepping only took a few seconds max
 - 100000 or less was under 10 seconds, but 1 million took just under a minute
 - When I tried the full file, I waited about 10 minutes and it hadn't finished and my fan was working overtime so I stopped

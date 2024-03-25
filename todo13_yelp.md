@@ -3,6 +3,12 @@
 ## Na-Rae the fake student:
 - My 5-year-old ThinkPad laptop did ok! It has ... RAM, which worked ok with this much data, etc. Grepping through the whole of xxx json file took...
 
+## Dastan
+- I have a 7 year old custom built computer with 32GB of RAM and a AMD 2700x processor
+- Grepping through the file was relatively quick, only taking a few seconds at most
+- I was able to go up to 1,000,000 which took about 38 seconds real time, I tried 5,000,000 and 10,000,000 but they all caused MemoryErrors in the program. Everything below 1,000,000 took less than 10 seconds for me.
+- When running the 5,000,000 and the 10,000,000 my activity monitor was off the charts, almost 99% memory utilization at the peak, having chrome opened also played a role in that percentage but it was marginal compared to the python script
+
 ## Maddy
 - I have a 3ish year-old Dell XPS 13 with 16GB of RAM and a mid range intel i7 processor
 - Grepping through the file was relatively quick, only taking a few seconds

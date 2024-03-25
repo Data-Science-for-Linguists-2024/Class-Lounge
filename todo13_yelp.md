@@ -13,3 +13,8 @@
 - I have a 2021 MacBook Pro with 16 GB of RAM and an Apple M1 Pro chip.
 - Grepping through the file wasn't instaneous but was still quick.
 - My computer was able to handle 1,000,000, but 10,000,000 proved to be too much for it because it ran for a long time until I finally gave up and terminated it. I was streaming music on my computer at the same time and the audio started cutting out, and the activity monitor was showing large readings, so my poor computer was hard at work. 
+
+## Riley
+- I have a 4-year-old MacBook Pro with 16 GB of RAM and an Intel Core i5 processor
+- 100000 or less was under 10 seconds, but 1 million took just under a minute
+- When I tried the full file, I waited about 10 minutes and it hadn't finished and my fan was working overtime so I stopped

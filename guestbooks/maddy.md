@@ -24,3 +24,8 @@ by: Madeline Powers
 - Overall I think your project looks great. Something I'm curious about is that you deleted any comments that were deleted or removed. I would wonder, since you're looking for similarities across subreddits, if some subreddits have comments removed more than others and if that could be indicative of language used in those subreddits.
 
 - I didn't know much about webscraping, so looking through your scripts was very informantional
+
+### Maya's Comments
+- I think your concept is very cool and I think your project is at a really good stage! When looking through your jupyter notebook, I really appreciated the amount of markdown cells you added to explain what was going on, and I enjoyed the conversational tone you used.  
+- Though you document your actions well in your progress report, I think it would be beneficial to add a quick summary at the beginning or end of your jupyter notebook so that viewers can get a quick sense of what you have accomplished. I also think some visualizations would be a great addition!
+- From reading your project plan, I learned how long webscraping can take, as you said your scripts could take a few hours to scrape all the data.

@@ -10,4 +10,5 @@ Leave your comments on the repo here: https://github.com/Data-Science-for-Lingui
 ## Maddy's feedback
 - You seem to understand your dataset well and have a good idea of your plans for it, and your code was very understandable.
 - This is just a minor note, but printing out smaller portions of the dataframes would improve your notebook's readability.
-- Using a non-english dataset is very interesting. I'm excited to see where your projects goes!
+- Using a non-english dataset is very interesting. I'm excited to see where your projects goes! 
+From Riley: <3 thanks for the tips y'all

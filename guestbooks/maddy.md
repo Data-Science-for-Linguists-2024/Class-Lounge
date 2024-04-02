@@ -16,3 +16,11 @@ by: Madeline Powers
 - In terms of the data analysis, I think you could've added more visualizations and more examniation of the data, I am not sure if the analysis of the "text" property was left out of progress report 1 intentionally or not, but doing some preliminary analysis on the "text" property would definitiely be a good direction to go in.
 
 - One thing that I learned was that python had it's own library wrapper for the reddit API which is conveient as you don't have to explicitly scrape the subreddits themselves.
+
+### Riley's Comments
+
+- I think your project idea in general is really cool! Your notebook is super clean, and I think you structured your exploration of the scraped data very well.
+
+- Overall I think your project looks great. Something I'm curious about is that you deleted any comments that were deleted or removed. I would wonder, since you're looking for similarities across subreddits, if some subreddits have comments removed more than others and if that could be indicative of language used in those subreddits.
+
+- I didn't know much about webscraping, so looking through your scripts was very informantional

@@ -6,12 +6,18 @@ Welcome to Maya Asher's guestbook! Feel free to leave feedback on their [repo](h
 - Overall very good, but it could have been interesting to have a few more visualizations of the data.
 - I hadn't heard of `natsort` before! That's a very interesting module.
 
+### Response from author
+Thanks for the feedback! Visualizations will definitely be more present as I near the analysis portion of my project.
+
 ## Dastan's feedback
 - Overall you did a really goodjob analyzing the data, very clear cut and to the point. Also those `.trn` files look terrifying! props for tackling them. I liked the visualization that you did towards the end and in the progress report you included what the next steps are going to be for the project, which tells me that you already have a plan.
 
 - In terms of the notebook, I would recommend adding more markdown cells and explaining why you do some of the stuff that you do (such as the removal). While a linguistically inclined audience might understand, people from the other fields won't and they'd have to dig through the project to see what you're trying to do. 
 
 - One thing that I learned was the `natsort` module and specifically `index_natsorted` which returns the indexes that represent the sorted structure, which pretty powerful as it maintains the original integrity of the data.
+
+### Response from author
+Thanks for the feedback! You were right to point out that I should make my code more accessible for non-linguists who may view it. I will be sure to give futher explanations in future jupyter notebooks.
 
 ## Riley's Feedback
 - It's a lot to have to go back and redo so much, so props to you! 

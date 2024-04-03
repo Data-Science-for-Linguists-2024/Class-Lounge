@@ -1,5 +1,5 @@
 # [Speech Accent Analysis](https://github.com/Data-Science-for-Linguists-2024/Speech-Accent-Analysis)
-By: Dastan Abdulla
+By: Dastan Abdulla  
 `Thanks to everyone reviewd my work, I will be sure to implement all your recommednations. I appreciate all the feedback-Dastan`
 ## Teresa's comments
 - Your data exploration was very thorough and well-explained. I like how you went through the trouble of retrieving the missing audiofiles instead of just leaving those records out and also really explored the age columns.

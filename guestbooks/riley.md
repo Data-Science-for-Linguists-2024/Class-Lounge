@@ -12,3 +12,8 @@ Leave your comments on the repo here: https://github.com/Data-Science-for-Lingui
 - This is just a minor note, but printing out smaller portions of the dataframes would improve your notebook's readability.
 - Using a non-english dataset is very interesting. I'm excited to see where your projects goes! 
 From Riley: <3 thanks for the tips y'all
+
+## Teresa's feedback
+- Your Jupyter notebook is very easy to follow with lots of explanation. I also appreciate the dedication to adding info about political party/position and gender, that must have taken a long time.
+- Printing out the head of the df after adding the extra info would be nice, just to see what it looks like all together.
+- It's exciting to see you using a dataset in German! There's a lot of political information here I didn't know about before. I'm so curious to see what the results will be.

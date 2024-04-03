@@ -23,3 +23,8 @@ Welcome to my guestbook! Thanks for stopping by :)
 - The interactive maps were really cool! I had no idea that was something you could do!
 
 	- Thanks for the visit :) - teresa
+
+ ## Dastan's feedback
+- Wow your notebooks and structure look amazing! I was able to thoroughly follow along each step thanks to the plethora of comments and documentation you had along the way. I was fascinated by your navigation of the data, you had a lot of it, which can be overwhelming, but you managed to tell a story with it anyways despite the size.
+- This is being slightly nit picky, but I'd maybe recommend adding some visualization to your notebook using seaborn or matplotlib.
+- I learned that the Tamil characters are supported in utf-8, I am curious if there any languages that are not supported.

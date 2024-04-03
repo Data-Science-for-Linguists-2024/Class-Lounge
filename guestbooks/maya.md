@@ -25,3 +25,9 @@ Thanks for the feedback! You were right to point out that I should make my code 
 - As you noted, there's some buggy code to fix up, but what you have as of now is looking good
 
 - I learned a bit about how to remove a larger list of characters from a bigger dataset from the first processing notebook
+
+## Teresa'a Feedback
+
+- It seems like the data is in a particularly difficult format for analysis since the data is different files, each with multiple speakers, and there is so much annotation. But you seem to be dealing with this well with the combination of separate dfs and the cleaning!
+- I agree with others that a little bit more explanation via comments in the code or markdown cells would be helpful.
+- I didn't know much of anything about stance taking so the very clearly written overview and literature review in the project plan was very helpful! It helped me understand the motivation for the project a lot better.

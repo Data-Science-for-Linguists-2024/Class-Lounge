@@ -16,4 +16,9 @@ By: Dastan Abdulla
 ## Maya's Feedback
 - I'm very impressed by your initiative to contact the professor in charge of the project and get extra data that you weren't able to find on Kaggle. I think this will benefit not only your analysis, but also the ultimate reach your project will have now that you have a contact at GMU. Great work!
 - Your repo is looking really great so I don't have much to critique. One thing you could do is give a brief summary at the beginning or end of your notebooks to give the viewer a quick snapshot of the purpose and content of the notebook. Similarly, I think it could be helpful to utilize hyperlinks to allow the viewer to quickly access the section they want to go to. 
-- I learned that you can use UTF-8 to encode IPA characters...I only have experience using DISC codes so I didn't realize how easy it could be to process the IPA alphabet. 
+- I learned that you can use UTF-8 to encode IPA characters...I only have experience using DISC codes so I didn't realize how easy it could be to process the IPA alphabet.
+
+## Maddy's Feedback
+- I was really impressed by the fact that you contacted the author of the dataset and got more data out of it! I never would have thought to try that.
+- It would be nice to have some sort of brief conclusion in you jupyter notebooks.
+- I didn't know pandas could read excel documents! I also had never thought about trying to process rtf files, it's nice that there's a python module for that. 

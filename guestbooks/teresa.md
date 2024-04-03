@@ -12,3 +12,8 @@ Welcome to my guestbook! Thanks for stopping by :)
 - Done Well: Your notebook is so clean and organized, and your explanations all make sense. Also, I agree with Maya. Yor visualizations are awesome, and it's really cool that they're interactive. It adds a lot to the presentation.
 - Improvement: Honestly, your stuff is all well organized, clearly explained and seemingly thorough.
 - What I learned: I learned about using plotly for visualizations. I had never heard of it before, and it makes some cool stuff.
+
+## Maddy's feedback
+- The notebooks are well organized and provide a clear view into your thought process writing them.
+- I don't really have much negative feedback, your project seems to be coming along well.
+- The interactive maps were really cool! I had no idea that was something you could do!
